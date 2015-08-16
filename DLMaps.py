@@ -8,7 +8,6 @@ import os.path
 #that generate API URL's, downloading single images, dual roadmap and satellite images
 #and the Mass downloading of bulk images over a large area
 
-##---------------------------------------------------------------------------------------
 #Generates a Style URL for the Google Maps Static API, to be appended on the base URL
 #@param style (array): Takes a string array of Google-Maps Static API
 #features in groups of 3 as in below Example
